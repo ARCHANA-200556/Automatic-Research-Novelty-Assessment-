@@ -112,11 +112,6 @@ research-novelty-assessor/
 │   ├── pipeline.py               # Unified end-to-end evaluation orchestrator
 │   ├── api.py                    # FastAPI REST backend endpoints
 │   └── main_app.py               # Streamlit interactive 8-tab web dashboard
-├── docs/
-│   ├── Review_III_Automatic_Research_Novelty_Assessment_Report.docx  # Complete updated Word report
-│   ├── Review_III_Project_Report.md                                 # Full Markdown report
-│   ├── Review_III_Automatic_Research_Novelty_Assessment_Report_ORIGINAL_BACKUP.docx
-│   └── Review_III_Project_Report_ORIGINAL_BACKUP.md
 ├── tests/
 │   ├── test_input_parser.py      # PDF & manual input tests
 │   ├── test_retrieval.py         # OpenAlex parsing & fallback tests
